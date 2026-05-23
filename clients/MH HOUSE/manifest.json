@@ -1,6 +1,6 @@
 {
   "status": "active",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/MHSentryPOS.jar",
   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "message": "Latest stable release"
