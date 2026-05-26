@@ -1,7 +1,7 @@
 {
   "status": "active",
-  "version": "1.0.0",
-  "download_url": "https://github.com/noor-81478/POS-UPDATES/releases/download/v3.0.1/MHSentryPOS-1.0.0.jar",
-  "sha256": "26391bad184fccfddb39eb38f52d40706c8d9535faeeb5aff5470b772bc5e03c",
-  "message": "Initial Release v1.0.0"
+  "version": "1.1.0",
+  "download_url": "https://github.com/noor-81478/POS-UPDATES/releases/download/v1.1.0/MHSentryPOS-1.0.0.jar",
+  "sha256": "1514d67cd9033206bcfa6062d116c721ebf251280516a12d14d979af9b959e98",
+  "message": "New Stable release, New features added v1.1.0"
 }
